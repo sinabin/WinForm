@@ -1,0 +1,9 @@
+.vs/
+.bin/
+.obj/
+obj/
+*.ilk
+*.pdb
+.idea/
+__pycache__/
+packages/
